@@ -2336,6 +2336,7 @@ Akash Abraham
 - [Wunna Kyaw] (https://github.com/HeronKyaw)
 - [Lorin Muller](https://github.com/loringabriel)
 - [Syed Mohid](https://github.com/Syed-Mohid)
+-[Sevag Merdkhanian](https://github.com/SevagMerdkhanian)
 - [R Varshinee](https://github.com/RVarshinee)
 [Sayandeep Dutta](https://github.com/duttasayandeep)
 - [Madeefar Abbas] (https://github.com/MadeefarAbbas)
@@ -2343,4 +2344,3 @@ Akash Abraham
 -[Rohan Vania](https://github.com/RohanVania)
 -[Cheyenne Abel](https://github.com/cheyenneabel)
 -[Marcel Jamecny](https://github.com/mjamecny)
-
